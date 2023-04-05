@@ -1,6 +1,11 @@
 README.txt
-Erica Li	email: eli31@u.rochester.edu
+Erica Li
 
-Instructions: HuffmanSubmit x is a new instance of the class HuffmanSubmit, which implements the Huffman interface, which contains the encode and decode methods.
 
-The main method is in HuffmanSubmit.java. Run the encode and decode methods there please.
+
+
+
+
+Compile and Run Instructions: HuffmanSubmit x is a new instance of the class HuffmanSubmit, which implements the Huffman interface, which contains the encode and decode methods.
+
+Credit to Sedgewick and Wayne, the authors of BinaryIn.java and BinaryOut.java, the programs which writes and modifies the input and output streams of Binary Data.
